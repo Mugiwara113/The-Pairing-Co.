@@ -1,5 +1,7 @@
 # Meal Pairing Recommendation Engine
 
+The Pairing Co. meal prep app helps with recipes, desserts, spirits, and pairings for hosting events, college students, and people working on the road.
+
 A full-stack web application that helps users discover meal recommendations based on ingredients they have. Users input primary ingredients, receive personalized recommendations with pricing, and can add complementary pairings (wine, spirits, desserts, flowers).
 
 **Contributors:** Start with [CONTRIBUTING.md](CONTRIBUTING.md) for local backend setup, the frontend API contract, current limitations, and prioritized backend work.
